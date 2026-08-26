@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ramosadvespecializada.com/defesa/sitemap.xml
+Sitemap: https://defesa.ramosadvespecializada.com/sitemap.xml
